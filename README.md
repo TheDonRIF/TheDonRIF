@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheDonRIF
-- 👀 I’m interested in Cybersecurity and Python Programming
-- 🌱 I’m currently learning IT fundamentals
-- 💞️ I’m looking to collaborate on different pentesting projects
+- 👀 I’m interested in Cybersecurity, Python Programming and Game Development
+- 🌱 I’m currently learning AI with Python 
+- 💞️ I’m looking to collaborate on different projects
 - 📫 How to reach me : elhassouni3@hotmail.com 
 
 <!---
